@@ -1,1 +1,1 @@
-# predicting_movie_ratings
+The dataset contained information about movie name, release year, duration, genre, number of votes, director, lead actors and the movie's rating. The goal was to build a model that can accurately predict the movie's rating based on the combination of year, duration, genre, director, and lead actors. 
